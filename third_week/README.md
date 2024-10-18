@@ -50,3 +50,13 @@ Thực hiện pop widget ở trên cùng của stack navigator, mỗi lần gọ
 # Phần 2: Thực hành
 
 Ứng dụng với 2-3 màn hình điều hướng qua lại, ví dụ danh sách sản phẩm và chi tiết sản phẩm.
+
+### 1. Màn hình danh sách sản phẩm
+<img src="product_screen.png" width="200" />
+
+### 2. Màn hình chi tiết sản phẩm
+<img src="product_detail.png" width="200" />
+
+### 3. Màn hình giỏ hàng
+<img src="cart.png" width="200" />
+
