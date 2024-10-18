@@ -42,4 +42,4 @@ Flutter Inspector là công cụ trong Flutter DevTools, cho phép xem trực ti
 
 Ứng dụng giao diện danh bạ cơ bản.
 
-<img src="preview.png" width="200" height="200" />
+<img src="preview.png" width="200" />
